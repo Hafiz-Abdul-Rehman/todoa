@@ -24,6 +24,22 @@ Follow these simple steps to get started with Todoa:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Todoa.git
+   git clone https://github.com/hafiz-abdul-rehman/todoa.git
 
+2. **Navigate to Project Directory:**
+   ```bash
+   cd todoa
+
+3. **Install Dependencies:**
+   ```bash
+   flutter pub get
+
+4. **Run the App:**
+   ```bash
+   flutter run
+
+## Issues and Feedback
+Please report any issues or provide feedback through our email. (abdulrehmanhafiz7800@gmail.com)
+
+# REGARDS
 <img src="assets/images/Checklist-.png" height="150"><img src="assets/images/Todoa-App.jpg" height="150">
