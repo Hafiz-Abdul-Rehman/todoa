@@ -1,12 +1,7 @@
-# TODOA
+### TODOA
 
 A complete Task Manager Flutter application.
 
-## Getting Started
+## Project Overview
+Simple and unique todo and task manager application built with the power of Flutter and Firebase.
 
-This project is a starting point for a Flutter application.
-
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
